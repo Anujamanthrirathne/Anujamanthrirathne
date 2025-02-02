@@ -36,17 +36,19 @@
 
 ---
 
-### 📊 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujamanthrirathne&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujamanthrirathne&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anujamanthrirathne&theme=radical)
+
 
 ---
 
 ### 📫 **Let's Connect**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🔗 [Portfolio](https://your-portfolio.com)  
-🔗 [Twitter](https://twitter.com/your-handle)  
-
+🔗 [Portfolio]([https://your-portfolio.com](https://my-portfolio-ochre-ten-84.vercel.app/))  
 ---
 
 🚀 **Always building, always learning!** 🔥  
