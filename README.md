@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Your Name</a> 👋</h1>
+<h3 align="center">A Passionate Full-Stack Developer | MERN | Next.js | TypeScript | Socket.IO</h3>
 
-<!--
-**Anujamanthrirathne/Anujamanthrirathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 **About Me**  
+🚀 Full-Stack Developer skilled in **MERN Stack, Redis, Redux, Socket.IO, Next.js, TypeScript, and Cloud Technologies**.  
+🎯 Passionate about **real-time applications, scalable architectures, and optimizing performance**.  
+🔭 Currently working on **high-performance web apps & backend optimizations**.  
+📫 Reach me at **your.email@example.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 **Tech Stack & Tools**  
+
+#### ⚡ Frontend  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🛢 Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🚀 DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+---
+
+### 📫 **Let's Connect**  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [Portfolio](https://your-portfolio.com)  
+🔗 [Twitter](https://twitter.com/your-handle)  
+
+---
+
+🚀 **Always building, always learning!** 🔥  
