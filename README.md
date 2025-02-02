@@ -7,7 +7,7 @@
 🚀 Full-Stack Developer skilled in **MERN Stack, Redis, Redux, Socket.IO, Next.js, TypeScript, and Cloud Technologies**.  
 🎯 Passionate about **real-time applications, scalable architectures, and optimizing performance**.  
 🔭 Currently working on **high-performance web apps & backend optimizations**.  
-📫 Reach me at **your.email@example.com**  
+📫 Reach me at **anujamanthriratne@gmail.com**  
 
 ---
 
