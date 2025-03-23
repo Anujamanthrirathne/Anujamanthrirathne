@@ -47,7 +47,7 @@
 ---
 
 ### 🌟 **Animated Portfolio Preview**  
-![Portfolio]([(https://my-portfolio-ochre-ten-84.vercel.app](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV6dW82cDQ0OGx5MWRueDUwcXc3NThkeXQwdm1teG84Y3dtMjd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+![Portfolio](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV6dW82cDQ0OGx5MWRueDUwcXc3NThkeXQwdm1teG84Y3dtMjd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 ### 📫 **Let's Connect**  
 🔗 [Portfolio](https://my-portfolio-ochre-ten-84.vercel.app/)  
