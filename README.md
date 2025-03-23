@@ -49,7 +49,7 @@
 ---
 
  
-![Portfolio](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV6dW82cDQ0OGx5MWRueDUwcXc3NThkeXQwdm1teG84Y3dtMjd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+![Portfolio](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNoZmI0OW5nYnFxeWttaHFrN3c3NHFsaWJoM3llZGQyajdidXd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 ### 📫 **Let's Connect**  
 🔗 [Portfolio](https://my-portfolio-ochre-ten-84.vercel.app/)  
