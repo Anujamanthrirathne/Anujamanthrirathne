@@ -36,24 +36,22 @@
 
 ---
 
+### 📊 **Anuja's GitHub Stats**  
 
-
-### 📊 Anuja's GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Anujamanthrirathne&show_icons=true&theme=radical&count_private=true)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujamanthrirathne&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Anujamanthrirathne&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujamanthrirathne&layout=compact&theme=radical)
 
-
-
 ---
+
+### 🌟 **Animated Portfolio Preview**  
+![Portfolio](https://media.giphy.com/media/3oEjI1erPMsU7I4xS4/giphy.gif)
 
 ### 📫 **Let's Connect**  
-🔗 [Portfolio]([https://your-portfolio.com](https://my-portfolio-ochre-ten-84.vercel.app/))  
+🔗 [Portfolio](https://my-portfolio-ochre-ten-84.vercel.app/)  
+
 ---
 
-🚀 **Always building, always learning!** 🔥  
+🚀 **Always building, always learning!** 🔥
