@@ -1,57 +1,64 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Anujamanthrirathne">Anuja Manthrirathna</a> 👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer | MERN | Next.js | TypeScript | Socket.IO</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Interactive Portfolio</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.3/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.8.0/dist/gsap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lottie-web@5.7.6/build/player/lottie.min.js"></script>
+</head>
+<body class="bg-gray-900 text-white">
+    <!-- Hero Section with Lottie Animation -->
+    <section class="h-screen flex justify-center items-center bg-cover bg-center relative">
+        <div class="absolute inset-0 bg-black opacity-50"></div>
+        <div class="z-10 text-center">
+            <h1 class="text-5xl font-bold mb-4">Hi, I'm Anuja Manthrirathna</h1>
+            <p class="text-xl">Passionate Full-Stack Developer</p>
+            <button class="mt-6 px-6 py-3 bg-blue-500 hover:bg-blue-700 rounded-full" data-aos="zoom-in">View My Work</button>
+        </div>
+        <div id="lottie" class="absolute bottom-0 left-0 right-0"></div>
+    </section>
 
----
+    <!-- Projects Section with Scroll-trigger Animations -->
+    <section id="projects" class="py-20">
+        <div class="container mx-auto text-center">
+            <h2 class="text-3xl font-bold mb-6" data-aos="fade-up">My Projects</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div class="project-card" data-aos="flip-left">
+                    <img src="project-image.jpg" alt="Project 1" class="w-full h-40 object-cover rounded-lg">
+                    <h3 class="mt-4 text-xl">Project 1</h3>
+                    <p class="text-gray-400">Description of the project.</p>
+                </div>
+                <!-- Repeat for more projects -->
+            </div>
+        </div>
+    </section>
 
-### 🔥 **About Me**   
-🚀 Full-Stack Developer skilled in **MERN Stack, Redis, Redux, Socket.IO, Next.js, TypeScript, and Cloud Technologies**.  
-🎯 Passionate about **real-time applications, scalable architectures, and optimizing performance**.  
-🔭 Currently working on **high-performance web apps & backend optimizations**.  
-📫 Reach me at **anujamanthriratne@gmail.com**  
+    <!-- Contact Form -->
+    <section id="contact" class="py-20 bg-gray-800">
+        <div class="container mx-auto text-center">
+            <h2 class="text-3xl font-bold mb-6" data-aos="fade-up">Contact Me</h2>
+            <form action="#" method="post">
+                <input type="text" name="name" placeholder="Your Name" class="input-field" required>
+                <input type="email" name="email" placeholder="Your Email" class="input-field" required>
+                <textarea name="message" placeholder="Your Message" class="input-field" required></textarea>
+                <button type="submit" class="mt-4 px-6 py-3 bg-green-500 hover:bg-green-700 rounded-full">Send Message</button>
+            </form>
+        </div>
+    </section>
 
----
-
-### 🛠 **Tech Stack & Tools**  
-
-#### ⚡ Frontend  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### 🛢 Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🚀 DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-### 📊 **Anuja's GitHub Stats**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujamanthrirathne&show_icons=true&theme=radical&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anujamanthrirathne&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujamanthrirathne&layout=compact&theme=radical)
-
----
-
-### 🌟 **Animated Portfolio Preview**  
-![Portfolio](https://media.giphy.com/media/3oEjI1erPMsU7I4xS4/giphy.gif)
-
-### 📫 **Let's Connect**  
-🔗 [Portfolio](https://my-portfolio-ochre-ten-84.vercel.app/)  
-
----
-
-🚀 **Always building, always learning!** 🔥
+    <script>
+        AOS.init(); // Initialize AOS library for scroll animations
+        var animation = lottie.loadAnimation({
+            container: document.getElementById('lottie'),
+            path: 'https://assets7.lottiefiles.com/packages/lf20_5zw88c3b.json', // Example Lottie JSON file
+            renderer: 'svg',
+            loop: true,
+            autoplay: true
+        });
+    </script>
+</body>
+</html>
